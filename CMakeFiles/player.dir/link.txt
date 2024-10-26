@@ -1,0 +1,1 @@
+/usr/bin/c++ -rdynamic CMakeFiles/player.dir/PackQueue.cpp.o CMakeFiles/player.dir/simplest_ffmpeg_player_su.cpp.o -o player   -L/usr/local/lib  -Wl,-rpath,/usr/local/lib -lavutil -lavformat -lavcodec -lswscale -lswresample -lSDL2 -lpthread 

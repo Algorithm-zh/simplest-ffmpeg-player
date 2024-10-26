@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/zxe/Documents/FFmpeg-n4.4.1/doc/examples/ffmpeg-simple-player/simplest_ffmpeg_player",
+  "command": "/usr/bin/c++  -I/home/zxe/Documents/FFmpeg-n4.4.1/doc/examples/ffmpeg-simple-player/simplest_ffmpeg_player/include -I/usr/include/SDL2 -I/usr/local/include/libavformat -I/usr/local/include/libavcodec -I/usr/local/include/libswscale -I/usr/local/include/libavutil -std=gnu++17 -o CMakeFiles/player.dir/PackQueue.cpp.o -c /home/zxe/Documents/FFmpeg-n4.4.1/doc/examples/ffmpeg-simple-player/simplest_ffmpeg_player/PackQueue.cpp",
+  "file": "/home/zxe/Documents/FFmpeg-n4.4.1/doc/examples/ffmpeg-simple-player/simplest_ffmpeg_player/PackQueue.cpp"
+},
+{
+  "directory": "/home/zxe/Documents/FFmpeg-n4.4.1/doc/examples/ffmpeg-simple-player/simplest_ffmpeg_player",
+  "command": "/usr/bin/c++  -I/home/zxe/Documents/FFmpeg-n4.4.1/doc/examples/ffmpeg-simple-player/simplest_ffmpeg_player/include -I/usr/include/SDL2 -I/usr/local/include/libavformat -I/usr/local/include/libavcodec -I/usr/local/include/libswscale -I/usr/local/include/libavutil -std=gnu++17 -o CMakeFiles/player.dir/simplest_ffmpeg_player_su.cpp.o -c /home/zxe/Documents/FFmpeg-n4.4.1/doc/examples/ffmpeg-simple-player/simplest_ffmpeg_player/simplest_ffmpeg_player_su.cpp",
+  "file": "/home/zxe/Documents/FFmpeg-n4.4.1/doc/examples/ffmpeg-simple-player/simplest_ffmpeg_player/simplest_ffmpeg_player_su.cpp"
+}
+]
